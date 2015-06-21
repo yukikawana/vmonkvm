@@ -3,7 +3,7 @@ VM on KVM
 this program is under GPL licence.
 
 src: source code files of VM on KVM
-DemoforComputer: Demo project of VM on KVM modified for J2SE. this demo decompresses the picture which is compressed as LZMA.
+Demo for desktop environment: Demo project of VM on KVM modified for J2SE. this demo decompresses the picture which is compressed as LZMA.
 
 How to run program:
 	use javaStack.StartVM(String class_name, String method_name, Object[] args, String scheme,boolean isInitializeStaticFields)
